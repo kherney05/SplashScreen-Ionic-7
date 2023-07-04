@@ -1,0 +1,7 @@
+{
+  "name": "SplashScreen",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
